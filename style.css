@@ -60,6 +60,10 @@ body {
     color:#25043b;
 }
 
+.button-link {
+    text-decoration: none;
+}
+
 /*description*/
 #description {
     color: #F3E8FF;
